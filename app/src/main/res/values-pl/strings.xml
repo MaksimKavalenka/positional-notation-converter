@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Konwertor systemów liczbowych</string>
+    <string name="action_settings">Nastrajania</string>
+
+    <string-array name="about">
+
+        <item>
+            Ta aplikacja czyni konwertowanie z zadanego systemu liczbowego (od dwójkowy do szesnastkowy) do innych. Jest możliwe konwertowanie pozytywnych i negatywny całych liczb i liczb z pływającym punktem.
+        </item>
+
+        <item>
+            Wprowadzenie liczby i jego redagowanie spełnia się za pomocą przycisków, rozmieszczonych w dolnej części aplikacji.
+        </item>
+
+        <item>
+            Wybór wymienialnego systemu odbywa przez kontekstu menu, które znajduje się w górnej części aplikacji, czy odpowiedniego punktu menu \"System\".
+        </item>
+
+        <item>
+            Punkt menu \"Reżim\" zawiera dwie opcje: \"Standardowy\" i \"Rozszerzony\". Standardowy reżim czyni konwertowanie w cztery standardowe systemy liczbowych: dwójkowy, ósemkowy, dziesiętny i szesnastkowy. Rozszerzony reżim czyni konwertowanie do wszystkich innych systemów liczbowych. Domyślnie w aplikacji aktywuje standardowy reżim.
+        </item>
+
+        <item>
+            W punkcie menu \"Język\" spełnia się przemiana języka. Aplikacja jest przetłumaczony 9 języków: angielski, białoruski, litewski, łotewski, niemiecki, polski, rosyjski, ukraiński, włoski.
+        </item>
+
+    </string-array>
+
+    <string-array name="protection">
+        <item>cyfr</item>
+        <item>Jest przekroczony limit:</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>System</item>
+        <item>Reżim</item>
+        <item>Język</item>
+        <item>O aplikacji</item>
+    </string-array>
+
+    <string-array name="systems">
+        <item>Dwójkowy</item>
+        <item>Trójkowy</item>
+        <item>Czwórkowy</item>
+        <item>Piątkowy</item>
+        <item>Szóstkowy</item>
+        <item>Siódemkowy</item>
+        <item>Ósemkowy</item>
+        <item>Dziewiątkowy</item>
+        <item>Dziesiętny</item>
+        <item>Jedenastkowy</item>
+        <item>Dwunastkowy</item>
+        <item>Trzynastkowy</item>
+        <item>Czternastkowy</item>
+        <item>Piętnastkowy</item>
+        <item>Szesnastkowy</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>Standardowy</item>
+        <item>Rozszerzony</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Беларуская</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>Latviešu</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Українська</item>
+    </string-array>
+
+</resources>

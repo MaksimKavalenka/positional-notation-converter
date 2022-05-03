@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skaitļu sistēmas pārvēršana</string>
+    <string name="action_settings">Iestatījumi</string>
+
+    <string-array name="about">
+
+        <item>
+            Šī veida lietojumprogramma veido konvertāciju pārveidošanu no pašreizējās skaitļu sistēmās (no binārās sistēmas līdz heksadecimālās sistēmai) uz citām. Ir iespējama pozitīvu un negatīvu veselo skaitļu konvertēšana, ka arī peldoša punkta konvertēšana.
+        </item>
+
+        <item>
+            Skaitļa ievadīšana un labošana notiek ar klaviatūras taustiņiem, kas atrodas lietojumprogrammas apakšdaļā.
+        </item>
+
+        <item>
+            Konvertēšanas sistēmas izvēle tiek veikta, izmantojot kontekstizvēlni, kas atrodas lietojumprogrammas augšdaļā, vai attiecīgā lietojumprogrammas punktā \"Sistēma\".
+        </item>
+
+        <item>
+            Lietojumprogrammas punkts \"Režīms\" satur divas opcijas: \"Standarta\" un \"Paplašinātais\". Standarta režīms veido konvertēšanu uz četrām standarta sistēmām: binārā, oktālā, decimālā un heksadecimālā. Paplašinatais režīms veido konvertēšanu uz parējām skaitļu sistēmām. Pēc noklusēšanas, lietojumprogrammā tiek aktivizēts standarta režīms.
+        </item>
+
+        <item>
+            Lietojumprogrammas punkta \"Valoda\" ir iepēja mainīt valodu. Lietojumprogramma ir pieejama 9 valodās: angļu, baltkrievu, itāļu, krievu, latviešu, lietuviešu, polijas, ukraiņu, vācu.
+        </item>
+
+    </string-array>
+
+    <string-array name="protection">
+        <item>cipari</item>
+        <item>Pārsniegts limits:</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Sistēma</item>
+        <item>Režīms</item>
+        <item>Valoda</item>
+        <item>Par programmu</item>
+    </string-array>
+
+    <string-array name="systems">
+        <item>Binārā</item>
+        <item>Ternārā</item>
+        <item>Kvartārā</item>
+        <item>Bāzi 5</item>
+        <item>Bāzi 6</item>
+        <item>Bāzi 7</item>
+        <item>Oktālā</item>
+        <item>Bāzi 9</item>
+        <item>Decimālā</item>
+        <item>Bāzi 11</item>
+        <item>Bāzi 12</item>
+        <item>Bāzi 13</item>
+        <item>Bāzi 14</item>
+        <item>Bāzi 15</item>
+        <item>Heksadecimālā</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>Standarta</item>
+        <item>Paplašinātais</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Беларуская</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>Latviešu</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Українська</item>
+    </string-array>
+
+</resources>

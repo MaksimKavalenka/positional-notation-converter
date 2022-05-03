@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zahlensysteme converter</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string-array name="about">
+
+        <item>
+            Diese Anwendung konvertiert aus einem bestimmten Zahlensystem (von binär bis hexadezimal) in anderen. Es ist möglich positive und negative ganze Zahlen und Zahlen und Fließkommazahlen zu konvertieren.
+        </item>
+
+        <item>
+            Die Eingabe von Zahlen und ihre Bearbeitung werden mit den Tasten im Unterteil der Anwendung ​​verwirklicht.
+        </item>
+
+        <item>
+            Die Wahl eines konvertierbaren Systems wird durch einem Kontextmenü durchgeführt, das sich im Oberteil der Anwendung oder des entsprechenden Menüpunkts \"System\" befindet.
+        </item>
+
+        <item>
+            Der Menüpunkt \"Betrieb\" enthält zwei Optionen: \"Standard\" und \"Erweitert\". Der Standardbetrieb konvertiert in vier Standardzahlensystemen: binär, oktal, dezimal und hexdezimal. Der Erweiterte Betrieb konvertiert in alle anderen Zahlensystemen. In Standardwert der Anwendung ist der Standartbetrieb aktiviert.
+        </item>
+
+        <item>
+            Im Menüpunkt \"Sprache\" wird der Sprachwechsel durchgeführt. Die Anwendung ist in 9 Sprachen übersetzt: Belarussisch, Deutsch, Englisch, Italienisch, Lettische, Litauische, Polnisch, Russisch, Ukrainisch.
+        </item>
+
+    </string-array>
+
+    <string-array name="protection">
+        <item>Ziffern</item>
+        <item>Das Limit der Eingabe ist überschritten:</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>System</item>
+        <item>Betrieb</item>
+        <item>Sprache</item>
+        <item>Über Anwendung</item>
+    </string-array>
+
+    <string-array name="systems">
+        <item>Binär</item>
+        <item>Ternär</item>
+        <item>Vierer</item>
+        <item>Quinär</item>
+        <item>Sechser</item>
+        <item>Siebener</item>
+        <item>Oktal</item>
+        <item>Neuner</item>
+        <item>Dezimal</item>
+        <item>Elfer</item>
+        <item>Duodezimal</item>
+        <item>Dreizehner</item>
+        <item>Vierzehner</item>
+        <item>Fünfzehner</item>
+        <item>Sedezimal</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>Standard</item>
+        <item>Erweitert</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Беларуская</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>Latviešu</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Українська</item>
+    </string-array>
+
+</resources>

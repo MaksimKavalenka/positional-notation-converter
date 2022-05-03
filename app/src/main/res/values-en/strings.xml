@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Positional notation converter</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="about">
+
+        <item>
+            This application converts from a given numeral system (from binary to hexadecimal) in the other. It\'s possible to convert the positive and negative integers and floating point numbers.
+        </item>
+
+        <item>
+            The entering of number and its editing is done by using the buttons which are located at the bottom of the application.
+        </item>
+
+        <item>
+            The selecting of convertible system is done through the context menu, which is located in the upper part of application, or the appropriate item of menu \"System\".
+        </item>
+
+        <item>
+            Item of menu \"Mode\" contains two options: \"Standard\" and \"Advanced\". Standard mode converts into four standard notations: binary, octal, decimal and hexadecimal. Advanced mode converts into all other notations. By default, the application activates the standard mode.
+        </item>
+
+        <item>
+            In the item of menu \"Language\" you can choose the necessary language. The application is translated into 9 languages: Belarusian, English, German, Italian, Latvian, Lithuanian, Polish, Russian, Ukrainian.
+        </item>
+
+    </string-array>
+
+    <string-array name="protection">
+        <item>digits</item>
+        <item>Exceeded the input limit:</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>System</item>
+        <item>Mode</item>
+        <item>Language</item>
+        <item>About the app</item>
+    </string-array>
+
+    <string-array name="systems">
+        <item>Binary</item>
+        <item>Ternary</item>
+        <item>Quaternary</item>
+        <item>Quinary</item>
+        <item>Senary</item>
+        <item>Septenary</item>
+        <item>Octal</item>
+        <item>Nonary</item>
+        <item>Decimal</item>
+        <item>Undecimal</item>
+        <item>Duodecimal</item>
+        <item>Tredecimal</item>
+        <item>Tetradecimal</item>
+        <item>Pentadecimal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>Standard</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Беларуская</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>Latviešu</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Українська</item>
+    </string-array>
+
+</resources>

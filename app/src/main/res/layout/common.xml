@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/background"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="52">
+
+    <TextView
+        android:id="@+id/textNumberCommon"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#444444"
+        android:textSize="17dp"
+        android:singleLine="false"
+        android:maxLines = "2"
+        android:scrollbars = "vertical" />
+
+    <View
+        style="@style/separator"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <ListView
+        android:id="@+id/listSystems"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="41"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3" />
+
+</LinearLayout>

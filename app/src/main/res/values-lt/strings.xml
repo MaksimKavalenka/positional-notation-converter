@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Konverteris numeris sistemos</string>
+    <string name="action_settings">Nustatymai</string>
+
+    <string-array name="about">
+
+        <item>
+            Ši programa konvertuoja iš tam tikros skaičių sistemą (iš dvejetainis į šešioliktainis) į kitą. Galima konvertuoti teigiamus ir neigiamus sveikuosius skaičius ir slankiojo kablelio skaičių.
+        </item>
+
+        <item>
+            Įvedimas numeriai ir redagavimas daroma naudojant mygtukus esančius prašymo apačioje.
+        </item>
+
+        <item>
+            Pasirinkus konvertuojamą sistema yra per kontekstinį meniu, kuris yra viršutinėje dalyje taikymo, ar atitinkamas meniu \"Sistema\".
+        </item>
+
+        <item>
+            Meniu elementas \"Režimas\" yra dvi galimybes: \"Standartinis\" ir \"Išplėstinis\". Standartinis režimas paverčia į keturi standartiniai žymėjimai: dvejetainė, aštuntainė, dešimtainis ir šešioliktainis. Išplėstinė režimas konvertuoja visus kitus pastabomis. Pagal nutylėjimą, taikymas yra aktyvuotas standartinis režimas.
+        </item>
+
+        <item>
+            Per meniu \"Kalba\" keisti kalbą atliktas. Priedas išverstas į 9 kalbas: anglų, baltarusių, italų, latvių, lietuvių, lenkų, rusų, ukrainiečių, vokiečių.
+        </item>
+
+    </string-array>
+
+    <string-array name="protection">
+        <item>skaitmenų</item>
+        <item>Viršytas maksimalus:</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Sistema</item>
+        <item>Režimas</item>
+        <item>Kalba</item>
+        <item>Apie programą</item>
+    </string-array>
+
+    <string-array name="systems">
+        <item>Dvejetainis</item>
+        <item>Trejetainis</item>
+        <item>Ketvirtinis</item>
+        <item>Bazė 5</item>
+        <item>Bazė 6</item>
+        <item>Bazė 7</item>
+        <item>Aštuonetainis</item>
+        <item>Bazė 9</item>
+        <item>Dešimtainis</item>
+        <item>Bazė 11</item>
+        <item>Dvyliktainis</item>
+        <item>Bazė 13</item>
+        <item>Bazė 14</item>
+        <item>Bazė 15</item>
+        <item>Šešioliktainis</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>Standartinis</item>
+        <item>Išplėstinis</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Беларуская</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>Latviešu</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Українська</item>
+    </string-array>
+
+</resources>

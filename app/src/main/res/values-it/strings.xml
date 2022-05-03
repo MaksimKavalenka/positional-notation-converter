@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sistemi di numerazione converter</string>
+    <string name="action_settings">Impostazioni</string>
+
+    <string-array name="about">
+
+         <item>
+             Questa applicazione consente di convertire un numero da un sistema di numerazione (dal sistema binario a quello esadecimale) in altro. Offre la possibilita di convertire i numeri interi positivi e negativi e numeri in virgola mobile.
+         </item>
+
+         <item>
+             Inserimento di numeri e editing avviene utilizzando i pulsanti situati collocati nella parte inferiore dell\'applicazione.
+         </item>
+
+         <item>
+             Selezionando un sistemi di numerazione la conversione è effettuare attraverso il menu contestuale, che si trova nella parte superiore applicazione, o la corrispondente voce di menu \"System\".
+         </item>
+ 
+         <item>
+             Voce di menu \"Mode\" contiene due opzioni: \"Standard\" e \"Estesa\". Modalità standard converte di numero in quattro sistema di numerazione standard di: binario, ottale, decimale ed esadecimale. Modalità estesa converte di numero in tutte le altre sistema di numerazione. Per impostazione predefinita, nell\'applicazione la attiva la modalita standard.
+         </item>
+
+         <item>
+             Nella voce di menu \"Lingua\" si puo selezionare la lingua la preferita. Appendice tradotto in 9 lingue: bielorusso, inglese, italiana, lettone, lingua, polacco, russo, tedesca, ucraino.
+         </item>
+
+    </string-array>
+
+    <string-array name="protection">
+        <item>cifre</item>
+        <item>Limite a superato:</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Sistema</item>
+        <item>Modo</item>
+        <item>Lingua</item>
+        <item>Sull\'applicazione</item>
+    </string-array>
+
+    <string-array name="systems">
+        <item>Binario</item>
+        <item>Ternario</item>
+        <item>Quaternario</item>
+        <item>Quinario</item>
+        <item>Senary</item>
+        <item>Base 7</item>
+        <item>Ottale</item>
+        <item>Nonario</item>
+        <item>Decimale</item>
+        <item>Base 11</item>
+        <item>Duodecimale</item>
+        <item>Base 13</item>
+        <item>Base 14</item>
+        <item>Base 15</item>
+        <item>Esadecimale</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>Standard</item>
+        <item>Estesa</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Беларуская</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>Latviešu</item>
+        <item>Polski</item>
+        <item>Русский</item>
+        <item>Українська</item>
+    </string-array>
+
+</resources>
